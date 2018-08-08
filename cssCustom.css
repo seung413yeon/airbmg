@@ -1,0 +1,120 @@
+a {
+    outline: none;
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #FF5A5F;
+    text-decoration: underline;
+}
+#container {
+    width: 1080px;
+    height: auto;
+    margin: auto;
+    background-color: #FFF;
+    padding: 2%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+html > body {
+    background-color: #EEE;
+}
+body > nav {
+    height: 60px;
+}
+#inner_container {
+    margin: auto;
+    width: 960px;
+    height: 504px;
+    background-image: url(data/homebkgrndImg.png);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#quickBooking {
+    width: 300px;
+    background-color: #FFF;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 75px;
+}
+#footer {
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFF;
+    text-align: center;
+}
+#bestGuide {
+    margin: auto;
+    margin-top: 20px;
+    height: 460px;
+    width: 960px;
+    padding-top: 10px;
+}
+#bestGuide_info {
+    width: 300px;
+}
+#bestGuide_1 {
+    padding-top: 10px;
+    height: 300px;
+    float: left;
+}
+#bestGuide_1_inner {
+    height: 240px;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#bestGuide_1_pic {
+    width: 260px;
+    height: 200px;
+    margin: auto;
+}
+#bestGuide_2 {
+    padding-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 300px;
+    float: left;
+}
+#bestGuide_2_inner {
+    height: 240px;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#bestGuide_2_pic {
+    width: 260px;
+    height: 200px;
+    margin: auto;
+}
+#bestGuide_3 {
+    padding-top: 10px;
+    height: 300px;
+    float: right;
+}
+#bestGuide_3_inner {
+    height: 240px;
+    width: 300px;
+    float: right;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#bestGuide_3_pic {
+    width: 260px;
+    height: 200px;
+    margin: auto
+}
+#name {
+    font-weight: bold;
+}
+#airbmgLogo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#airbmgDesc {
+    width: 720px;
+    line-height: 1.8em;
+}
